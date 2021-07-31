@@ -146,4 +146,4 @@ Project Link: [https://github.com/atomize/github-issues-react-example/](https://
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.png"# giti" 
